@@ -1,12 +1,17 @@
-## Hi there 👋
+# Bursar Lab
 
-<!--
+Our flow for projects
 
-**Here are some ideas to get you started:**
+main branch - only stable and tested version
+dev branch - branch for testing your features
+<name_feaure> - for develop features
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+When your <name_feature> is done, u need to approve your merge request, then branch was merged to dev
+
+## Links
+
+#### Syllomony:
+
+- [Mobile](htts://github.com/bursar-lab/syllomony-front-mobile)
+- [Backend](htts://github.com/bursar-lab/syllomony-back-api)
+- [Backend Library](htts://github.com/bursar-lab/syllomony-back-lib)
