@@ -9,8 +9,8 @@ When your <name_feature> is done, u need to approve your merge request, then bra
 
 ## Links
 
-#### Syllomony:
+#### Pluntee:
 
-- [Mobile](https://github.com/bursar-lab/syllomony-front-mobile)
-- [Backend](https://github.com/bursar-lab/syllomony-back-api)
-- [Backend Library](https://github.com/bursar-lab/syllomony-back-lib)
+- [Mobile](https://github.com/bursar-lab/pluntee-front-mobile)
+- [Backend](https://github.com/bursar-lab/pluntee-back-api)
+- [Backend Library](https://github.com/bursar-lab/pluntee-back-lib)
